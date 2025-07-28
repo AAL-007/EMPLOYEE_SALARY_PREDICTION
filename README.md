@@ -2,6 +2,10 @@
 Project Overview
 This project is an end-to-end Machine Learning solution developed to predict whether an individual's annual income is <=50K or >50K based on various demographic and employment attributes. Utilizing the Adult Census Income Dataset, this project demonstrates a complete workflow from data understanding and preprocessing to model training, evaluation, and interactive deployment using Streamlit. It serves as a testament to my skills in building robust, data-driven applications.
 
+
+Link to the Model: https://drive.google.com/file/d/1MDCG7ywefsJlVM0jgCFQ1jlhPvp2jCwQ/view?usp=drivesdk
+
+
 ✨ Key Features
 Exploratory Data Analysis (EDA): In-depth analysis to understand data distributions, identify outliers, and uncover relationships between features.
 
