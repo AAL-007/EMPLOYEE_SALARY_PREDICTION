@@ -55,7 +55,7 @@ The project utilizes the Adult Census Income Dataset, sourced from the UCI Machi
 ▶️ How to Run Locally
 Follow these steps to set up and run the project on your local machine:
 
-Clone the Repository:
+Clone the Repository: ***
 
 Bash
 
