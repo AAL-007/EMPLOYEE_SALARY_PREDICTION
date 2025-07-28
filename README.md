@@ -54,14 +54,16 @@ The project utilizes the Adult Census Income Dataset, sourced from the UCI Machi
 <br>
 ▶️ How to Run Locally
 Follow these steps to set up and run the project on your local machine:
-
-Clone the Repository: ***
+***
+Clone the Repository: 
 
 Bash
 
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
 cd YOUR_REPO_NAME
+***
 <br>
+***
 Create a Virtual Environment (Recommended):
 <br>
 Bash
@@ -73,13 +75,17 @@ python -m venv venv
 <br>
 # On macOS/Linux:
 source venv/bin/activate
+***
 <br>
+***
 Install Dependencies:
 
 Bash
 
 pip install -r requirements.txt
+***
 <br>
+***
 Run the Jupyter Notebook:
 
 Start Jupyter Notebook:
@@ -90,6 +96,7 @@ jupyter notebook
 Open employee_salary_prediction.ipynb.
 
 Run all cells from top to bottom. 
+***
 <br>
 This step is crucial as it performs the EDA, training, and saves the model_pipeline.pkl file, which app.py relies on.
 
@@ -101,11 +108,13 @@ Open a new terminal (or use the existing one, ensuring your virtual environment 
 <br>
 Navigate to the project root directory if you're not already there.
 <br>
+***
 Run the Streamlit app:
 <br>
 Bash
 
 streamlit run app.py
+***
 <br>
 This will open the application in your default web browser.
 
