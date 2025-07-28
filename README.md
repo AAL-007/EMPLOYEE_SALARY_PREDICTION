@@ -41,7 +41,7 @@ Streamlit: For building and deploying the interactive web application.
 The project utilizes the Adult Census Income Dataset, sourced from the UCI Machine Learning Repository. This dataset contains over 48,000 instances with 14 attributes such as age, workclass, education, marital status, occupation, race, gender, capital gains/losses, hours per week, and native country, with the target variable being income class (<=50K or >50K).
 
 📂 Project Structure
-.
+<br>
 ├── employee_salary_prediction.ipynb   # Jupyter Notebook: Full project workflow from EDA to model training and saving.
 <br>
 ├── app.py                             # Streamlit Application: Interactive web interface for predictions.
