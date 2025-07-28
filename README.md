@@ -1,7 +1,7 @@
 📈 Employee Salary Prediction with Machine Learning
-<br>
+
 Project Overview
-<br>
+
 This project is an end-to-end Machine Learning solution developed to predict whether an individual's annual income is <=50K or >50K based on various demographic and employment attributes. Utilizing the Adult Census Income Dataset, this project demonstrates a complete workflow from data understanding and preprocessing to model training, evaluation, and interactive deployment using Streamlit. It serves as a testament to my skills in building robust, data-driven applications.
 
 
