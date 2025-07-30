@@ -59,7 +59,7 @@ Clone the Repository:
 
 Bash
 
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/AAL-007/EMPLOYEE_SALARY_PREDICTION
 
 ***
 <br>
